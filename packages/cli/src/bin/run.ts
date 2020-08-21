@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { Cli, Status } from "../cli";
 import { Suite } from "../lib/suite";
 import { DefaultLogger } from "../lib/logger";
